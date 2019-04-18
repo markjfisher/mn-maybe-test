@@ -14,8 +14,8 @@ ExceptionHandler when there's an error in the pipe.
 
 - endpoints
     
-    http://localhost:8080/api/maybe?count=1
-    http://localhost:8080/api/list?count=1
+    - http://localhost:8080/api/maybe?count=1
+    - http://localhost:8080/api/list?count=1
 
 Notes:
 
